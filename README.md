@@ -1,14 +1,8 @@
-- 👋 Hi, I’m @DarwinChamba,I am a native software developer with Kotlin
-- 👀 I am interested in Android and Web development. 
-- 🌱 I am currently learning how to perform test and clean architecture
-- 💞️ I am looking to collaborate on design patterns, MVVM Architecture and testing
-- 📫 You can contact me through Facebook as Darwin Chamba
-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Darwin Chamba</h1></summary>
   </ul>
 </div>
 
@@ -27,22 +21,12 @@
   </ul>
 </div>
 
-
-<!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->
+- 👋 Hi, I’m @DarwinChamba,I am a native software developer with Kotlin
+- 👀 I am interested in Android and Web development. 
+- 🌱 I am currently learning how to perform test and clean architecture
+- 💞️ I am looking to collaborate on design patterns, MVVM Architecture and testing
+- 📫 You can contact me through Facebook as Darwin Chamba
+- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 

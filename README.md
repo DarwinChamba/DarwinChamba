@@ -4,17 +4,18 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Darwin Chamba</h1></summary>
   </ul>
 </div>
-<!--  -->A
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Android+Developer+With+KOTLIN..&hearts;++;Self-taught+Front-End+Developer,;Teacher+Technology+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+programming+new+stuffs..<3"></a>
-</p>
-<br>
+<!--  -->
 
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Senior+Android+Developer+With+KOTLIN..&hearts;++;Self-taught+Front-End+Developer+,half;Teacher+Technology+Student,;Active+Learner/Researcher,;Love+to+programming+new+stuffs..<3"></a>
+</p>
+<br>
 
 
 <!--h2 without bottom border-->

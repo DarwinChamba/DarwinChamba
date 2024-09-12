@@ -4,12 +4,6 @@
         <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Darwin Chamba</h1>
   </ul>
 </div>
-<!--  -->
-
-<!--- snake -->
-
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Android+Developer+With+KOTLIN..&hearts;++;Self-taught+Front-End+Developer+,half;Teacher+Technology+Student,;Active+Learner/Researcher,;Love+to+programming+new+stuffs..<3"></a>
 </p>
@@ -20,9 +14,6 @@
   </picture>
 </div>
 
-
-
-<!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Next destination Silicon Valley</h2></summary>
